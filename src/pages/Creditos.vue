@@ -10,6 +10,7 @@
               class="mx-auto d-inline-block mb-3"
               src="@/assets/logos/logo-oit.png"
               style="width:80%;max-width:613px"
+              alt="Logotipo de la Organización Internacional del Trabajo."
             />
           </div>
         </div>
