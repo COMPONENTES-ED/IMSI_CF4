@@ -28,17 +28,17 @@ export default {
       },
       {
         referencia:
-          'Horak, J. (2018). <em>Structured Cabling: Designing and Installing Standard-Based Cabling Systems</em>. McGraw-Hill Education.',
+          'Horak, J. (2018). <em>Structured Cabling: Designing and Installing Standard-Based Cabling Systems.</em> McGraw-Hill Education.',
         link: '',
       },
       {
         referencia:
-          'International Organization for Standardization. (2017). <em>ISO/IEC 11801:2017 - Information technology - Generic cabling for customer premises</em>. ISO.',
-        link: '',
+          'International Organization for Standardization. (2017). ISO/IEC 11801:2017 - <em>Information technology - Generic cabling for customer premises.</em> ISO.',
+        link: 'https://www.iso.org/es/contents/data/standard/06/61/66182.html ',
       },
       {
         referencia:
-          'Smith, J. (2020). <em>Network Cabling: Design and Implementation</em>. McGraw-Hill Education.',
+          'Smith, J. (2020). <em>Network Cabling: Design and Implementation.</em> McGraw-Hill Education.',
         link: '',
       },
     ],

@@ -59,10 +59,11 @@ export default {
     complementarioData() {
       return [
         {
-          tema: 'Implementación del Cableado Estructurado',
-          referencia: 'Novusred. (2023b, septiembre 15).',
+          tema: 'Implementación del cableado estructurado',
+          referencia:
+            'Ecosistema de Recursos Educativos Digitales SENA. (2024, noviembre 23). Cableado estructurado: diseño e implementación de redes.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=laWefp80lz4',
+          link: 'https://www.youtube.com/watch?v=maMKMw_m5jA',
         },
       ]
     },
