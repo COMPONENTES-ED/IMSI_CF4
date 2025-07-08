@@ -68,7 +68,7 @@ export default {
         {
           tema: '2. Gestión de riesgos en el cableado estructurado',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2024b, noviembre 23). Cableado estructurado: implementación y gestión de riesgos.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2024, noviembre 23). Cableado estructurado: implementación y gestión de riesgos.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=EeQOFMBN0Bc',
         },
