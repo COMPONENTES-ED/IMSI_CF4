@@ -59,7 +59,14 @@ export default {
     complementarioData() {
       return [
         {
-          tema: 'Implementación del cableado estructurado',
+          tema: '1. Implementación del cableado estructurado',
+          referencia:
+            'Ecosistema de Recursos Educativos Digitales SENA. (2024, noviembre 23). Cableado estructurado: diseño e implementación de redes.',
+          tipo: 'Video',
+          link: 'https://www.youtube.com/watch?v=maMKMw_m5jA',
+        },
+        {
+          tema: '2. Gestión de riesgos en el cableado estructurado',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2024, noviembre 23). Cableado estructurado: diseño e implementación de redes.',
           tipo: 'Video',
